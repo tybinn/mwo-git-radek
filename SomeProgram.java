@@ -5,4 +5,7 @@ public class SomeProgram {
 System.out.println("balblablabla.");
 
     }
+public void manageTheSatellite() {
+    System.out.println("Bziuuuuu.");
+}
 }
